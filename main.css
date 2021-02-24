@@ -1,0 +1,23 @@
+body {
+    color: #ffffff;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    margin: 12px;
+    max-width: 540px;
+    margin: auto;
+}
+
+html {
+    background: url('https://stormandsky.com/gif/14.gif') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
